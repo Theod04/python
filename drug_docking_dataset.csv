@@ -1,0 +1,9 @@
+compound,target_protein,pdb_id,binding_energy_kcal,rmsd,active,smiles
+AZD3293,BACE1,4DJY,-9.1,1.25,1,CC(C)CNCC(O)c1ccccc1
+Solanezumab,BACE1,2QZC,-8.5,1.65,1,CC1=CC=CC=C1C(=O)NC2=CC=CC=C2
+Donepezil,AChE,1EVE,-10.2,1.1,1,COC1=CC=CC=C1C(=O)N
+Rivastigmine,AChE,1GQR,-8.7,1.45,1,CCN(CC)CCOC(=O)C1=CC=CC=C1
+Galantamine,AChE,1W6R,-8.9,1.3,1,CCOC1=CC=CC=C1OCCN
+Dummy1,BACE1,0XYZ,-5.2,2.5,0,CCCCC(=O)N
+Dummy2,AChE,0XYZ,-6.1,2.7,0,CCCNC(=O)C1=CC=CC=C1
+Dummy3,BACE1,0XYZ,-4.8,3.0,0,CCCCCCO
